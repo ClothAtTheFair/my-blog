@@ -13,4 +13,4 @@ In university, I started as a computer science major but after an internship and
 In hindsight, I should have done more research and learned that there are more options than that internship I was given but I was 
 19 at the time and I have a flaw of making rash decisions. 
 
-It wasn't until the end of last summer I got into data analytics this summer I realized I enjoyed higher math and programming again so I started to look to data science.  
+It wasn't until the end of last summer I got into data analytics and this summer I realized I enjoyed higher math and programming again so I started to look to data science.  
