@@ -6,7 +6,7 @@ description: "Before I created this blog, I had a blog for a few weeks and this 
 
 First published: 06-17-2019
 
-<b>This is a blog post from the webpage I used to have before this <a href="https://personal-website-bl2h3u7r9.now.sh/"> one. </a> Before I fully deleted the old website I wanted to perserve the 1 blog post I made. Hope you enjoy!</b>
+<b>This is a blog post from the webpage I used to have before this <a href="https://personal-website-bl2h3u7r9.now.sh/" target="_blank"> one. </a> Before I fully deleted the old website I wanted to perserve the 1 blog post I made. Hope you enjoy!</b>
 
 Before I go into this blog post I would first like to say hello and thank you for stopping by. I know I'm not the only blog you will see out in the webs so I'm glad you chose to stop by.
 

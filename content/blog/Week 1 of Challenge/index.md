@@ -10,7 +10,7 @@ In case I didn't mention this on here already, my goal for 2020 is to work on at
 
 My approach is to create it in an agile manner with Minimal Viable Products and iterations. The testing will be a mix of Test Driven Development and tests created after implementation to make sure nothing is missed. 
 
-So far I have used React Routers to achieve a single page website and have learned how to test this functionality. This was accomplished using the <a href = "https://testing-library.com/docs/react-testing-library/intro">React testing library</a> mocking the router. This way of testing is somewhat similar to the tests I have done in C# but I learned I need to read and practice a lot more of JS testing if I want accurate tests that pass!
+So far I have used React Routers to achieve a single page website and have learned how to test this functionality. This was accomplished using the <a href = "https://testing-library.com/docs/react-testing-library/intro" target="_blank">React testing library</a> mocking the router. This way of testing is somewhat similar to the tests I have done in C# but I learned I need to read and practice a lot more of JS testing if I want accurate tests that pass!
 
 I have also added in buttons for my social media on the home page and created a basic contact form but only the front end. There have been some issues with the backend that is partly due to the application not being hosted as of yet. 
 
